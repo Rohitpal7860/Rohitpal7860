@@ -1,6 +1,15 @@
 # 💫 About Me:
-💫 About Me:<br>Aspiring AI & Data Science Engineer | Full-Stack Developer | Data science & Data Analytics<br><br>I am a B.Tech student specializing in Artificial Intelligence and Data Science (2027 Batch) at Chandigarh Engineering College, CGC, Landran. I am passionate about building intelligent systems and scalable web applications, currently maintaining a 7.6 CGPA.<br><br>🚀 What I’m Working On<br><br>DSA & Problem Solving: Actively solving Striver's A-Z DSA sheet.<br>Web Development: Building modern applications using the MERN Stack.<br>Data Science: Working with data using Python, Pandas, NumPy, and visualization libraries to analyze datasets and generate insights.<br>Data Analytics: Exploring data to find patterns and insights using Python, Excel, and basic data analysis techniques.
 
+- **Aspiring AI & Data Science Engineer | Full-Stack Developer | Data Science & Data Analytics Enthusiast**
+
+- I am a **B.Tech student specializing in Artificial Intelligence and Data Science (2027 Batch)** at **Chandigarh Engineering College, CGC Landran**, currently maintaining a **7.6 CGPA**.
+
+## 🚀 What I’m Working On
+
+- **DSA & Problem Solving:** Actively solving **Striver's A-Z DSA Sheet** and **Leetcode Problems** to strengthen problem-solving skills.
+- **Web Development:** Building modern web applications using the **MERN Stack**.
+- **Data Science:** Working with data using **Python, Pandas, NumPy, and visualization libraries** to analyze datasets and generate insights.
+- **Data Analytics:** Exploring datasets using **Python, Excel, and basic data analysis techniques** to find patterns and insights.
 
 ## 🌐 Socials:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=black)](https://leetcode.com/u/Rohit7860/)
